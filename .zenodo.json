@@ -1,0 +1,22 @@
+{
+  "title": "Scaffali: rack location management for a finished-goods warehouse (Visual Basic 6, 2002–2003)",
+  "upload_type": "software",
+  "description": "<p><em>Gestione delle ubicazioni a scaffale del magazzino prodotti finiti</em></p><p>Scaffali manages where finished reels and pallets are stored in a racked warehouse. When a product is put away the operator assigns rack, row and column; the program then supports picking and moving stock between locations. Product and packing data are read from the packing database of the plant.</p><p>Designed and programmed by Massimo Sbarbaro in 2002–2003 (Visual Basic 6). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Visual Basic 6",
+    "warehouse management",
+    "rack locations",
+    "logistics",
+    "legacy software"
+  ],
+  "version": "1.3.4",
+  "language": "eng",
+  "notes": "Original development: 2002–2003."
+}
