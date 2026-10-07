@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you refer to this software, please cite it as below."
 type: software
-title: "Scaffali: rack location management for a finished-goods warehouse (Visual Basic 6, 2002–2003)"
+title: "Scaffali: rack location management for a finished-goods warehouse (2002–2003)"
 version: "1.3.4"
 abstract: "Scaffali manages where finished reels and pallets are stored in a racked warehouse. When a product is put away the operator assigns rack, row and column; the program then supports picking and moving stock between locations. Product and packing data are read from the packing database of the plant."
 authors:
@@ -9,7 +9,8 @@ authors:
     given-names: Massimo
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
-repository-code: "https://github.com/massimosbarbaro/warehouse-rack-locations-vb6"
+doi: "10.5281/zenodo.23186699"
+repository-code: "https://github.com/massimosbarbaro/warehouse-rack-locations"
 keywords:
   - "Visual Basic 6"
   - "warehouse management"

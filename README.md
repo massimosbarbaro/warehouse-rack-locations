@@ -1,8 +1,10 @@
 # Scaffali: rack location management for a finished-goods warehouse
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23186699.svg)](https://doi.org/10.5281/zenodo.23186699)
+
 *Gestione delle ubicazioni a scaffale del magazzino prodotti finiti*
 
-**Visual Basic 6** · 2002–2003 · version 1.3.4  
+2002–2003 · version 1.3.4  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -30,7 +32,7 @@ DAO 3.51, Microsoft Access 8 object library, Common Controls, Tab control, Maske
 
 | Path | Content |
 |---|---|
-| `src/` | Visual Basic 6 project (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
+| `src/` | Project file (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
 | `config-example/` | Templates of the `.ini` configuration files read at start-up, with placeholder values. |
 
 ## What is not included
@@ -39,14 +41,14 @@ Crystal Reports layouts (`.rpt`), compiled executables, installers, scripts for 
 
 ## Related repositories
 
-- [calender-production-orders-vb6](https://github.com/massimosbarbaro/calender-production-orders-vb6)
-- [physical-inventory-reconciliation-vb6](https://github.com/massimosbarbaro/physical-inventory-reconciliation-vb6)
+- [calender-production-orders](https://github.com/massimosbarbaro/calender-production-orders)
+- [physical-inventory-reconciliation](https://github.com/massimosbarbaro/physical-inventory-reconciliation)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23186699](https://doi.org/10.5281/zenodo.23186699).
 
-> Sbarbaro, Massimo. *Scaffali: rack location management for a finished-goods warehouse (Visual Basic 6, 2002–2003)*. Software, version 1.3.4. GitHub: https://github.com/massimosbarbaro/warehouse-rack-locations-vb6
+> Sbarbaro, Massimo. 2003. *Scaffali: rack location management for a finished-goods warehouse*. Software (2002–2003), version 1.3.4. Zenodo. https://doi.org/10.5281/zenodo.23186699.
 
 ## License
 
