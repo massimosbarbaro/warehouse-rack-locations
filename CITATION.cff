@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23186699"
 repository-code: "https://github.com/massimosbarbaro/warehouse-rack-locations"
 keywords:
-  - "Visual Basic 6"
   - "warehouse management"
   - "rack locations"
   - "logistics"
