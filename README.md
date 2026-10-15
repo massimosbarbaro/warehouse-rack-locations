@@ -22,11 +22,11 @@ I designed and programmed this application in 2002–2003. It is published here 
 
 ## Data
 
-Microsoft Access database (`Scaffali.mdb`) through DAO. Main tables: `Scaffali`, `Pallette`, `ODL`, `Legami`.
+Database (`Scaffali.mdb`) through DAO. Main tables: `Scaffali`, `Pallette`, `ODL`, `Legami`.
 
 ## Technology
 
-DAO 3.51, Microsoft Access 8 object library, Common Controls, Tab control, Masked Edit, DBGrid.
+DAO 3.51, db object library 8, Common Controls, Tab control, Masked Edit, DBGrid.
 
 ## Repository contents
 
